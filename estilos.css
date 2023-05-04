@@ -1,0 +1,10 @@
+.pendente {
+ background-color: aquamarine;
+ color: aliceblue;
+ margin: 10px; }
+ .pendente:hover {
+    background-color: aqua;
+    
+ } 
+
+    
